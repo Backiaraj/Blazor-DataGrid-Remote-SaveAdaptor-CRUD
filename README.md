@@ -34,7 +34,7 @@ This is a Blazor hosted application with a clear separation of concerns:
 ### Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/Blazor-DataGrid-Remote-SaveAdaptor-CRUD.git
+git clone https://github.com/SyncfusionExamples/Blazor-DataGrid-Remote-SaveAdaptor-CRUD.git
 cd Blazor-DataGrid-Remote-SaveAdaptor-CRUD
 ```
 
