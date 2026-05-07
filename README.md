@@ -31,7 +31,7 @@ This is a Blazor hosted application with a clear separation of concerns:
 
 ## Getting Started
 
-### Clone the Repository
+### Clone the repository
 
 ```bash
 git clone https://github.com/Backiaraj/Blazor-DataGrid-Remote-SaveAdaptor-CRUD.git
