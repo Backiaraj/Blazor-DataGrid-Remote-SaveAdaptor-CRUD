@@ -45,17 +45,6 @@ cd Blazor-DataGrid-Remote-SaveAdaptor-CRUD
 3. Build the project to ensure there are no compilation errors.
 4. Run the project.
 
-
-### Run with .NET CLI
-
-```bash
-# Restore dependencies
-dotnet restore
-
-# Run the project
-dotnet run --project RemoteSaveAdaptor.Client.csproj
-```
-
 ## References
 
 - [Remote Data Binding Guide](https://blazor.syncfusion.com/documentation/datagrid/data-binding/remote-data)
